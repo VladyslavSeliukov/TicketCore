@@ -11,7 +11,6 @@ Double Spending, and Data Consistency under heavy load.
 * **Database:** PostgreSQL 16 (Asyncpg, SQLAlchemy 2.0)
 * **Caching & Locks:** Redis 7
 * **Background Jobs:** Arq (Redis-based worker)
-* **Background Jobs:** Arq (Redis-based worker)
 * **Infra & DevOps:** Docker Compose, Kubernetes (EKS), AWS (VPC, ECR), Terraform (IaC),
   GitHub Actions
 * **Observability:** Prometheus, Grafana
